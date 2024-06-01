@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Hima-madhu/static/css/main.40bc7630.css",
+    "main.js": "/Hima-madhu/static/js/main.403c1a53.js",
+    "static/media/HeadshotPro Avatar 2024-05-12T15-16-29-453Z.png": "/Hima-madhu/static/media/HeadshotPro Avatar 2024-05-12T15-16-29-453Z.f323850800936012d241.png",
+    "index.html": "/Hima-madhu/index.html",
+    "main.40bc7630.css.map": "/Hima-madhu/static/css/main.40bc7630.css.map",
+    "main.403c1a53.js.map": "/Hima-madhu/static/js/main.403c1a53.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40bc7630.css",
+    "static/js/main.403c1a53.js"
+  ]
+}
